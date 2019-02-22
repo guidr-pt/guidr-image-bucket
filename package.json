@@ -1,0 +1,14 @@
+{
+  "name": "guidr-image-bucket",
+  "version": "1.0.0",
+  "description": "Direct uploader to Amazon S3 bucket",
+  "main": "index.js",
+  "repository": "https://github.com/guidr-pt/guidr-image-bucket.git",
+  "author": "Joe Bugajski <yogurtmystery@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.x",
+    "ejs": "2.x",
+    "express": "4.x"
+  }
+}
